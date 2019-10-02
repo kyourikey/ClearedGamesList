@@ -3,3 +3,6 @@
 
 # クリアしたゲームのリスト
 * 今までクリアしたゲームをまとめます。
+
+# Nintendo
+* [Switch](Nintendo/Switch.md)
