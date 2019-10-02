@@ -7,6 +7,67 @@
 
 ## 2019
 
+| さよならワイルドハーツ | Sayonara Wild Hearts |
+|:--|:--|
+| Publisher | Annapurna Interactive |
+| Developer | Simogo |
+| ジャンル | アーケード / アクション / アドベンチャー / 音楽 |
+| 発売日 | 2019/9/26 |
+
+| ゼルダの伝説 夢をみる島 | The Legend of Zelda: Link's Awakening |
+|:--|:--|
+| Publisher | Nintendo |
+| ジャンル | アクションアドベンチャー |
+| 発売日 | 2019/09/20 |
+
+| ブロウルハラ | BRAWLHALLA |
+|:--|:--|
+| Publisher | Ubisoft |
+| ジャンル | 格闘 / アクション |
+| 発売日 | 2019/9/5 |
+
+| キルラキル ザ・ゲーム -異布- | KILL la KILL -IF |
+|:--|:--|
+| Publisher | Arc System Works |
+| Developer | APLUS Games |
+| ジャンル | 格闘 / アクション |
+| 発売日 | 2019/7/25 |
+
+| スーパーマリオメーカー2 | Super Mario Maker 2 |
+|:--|:--|
+| Publisher | Nintendo |
+| Developer | Nintendo |
+| ジャンル | アクション |
+| 発売日 | 2019/6/28 |
+
+| 妖怪ウォッチ4 ぼくらは同じ空を見上げている | Yo-Kai Watch 4 |
+|:--|:--|
+| Publisher | LEVEL-5 Inc. |
+| Developer | LEVEL-5 Inc. |
+| ジャンル | ロールプレイング / アドベンチャー |
+| 発売日 | 2019/6/20 |
+
+| ヴァルハラ | VA-11 Hall-A |
+|:--|:--|
+| Publisher | PLAYISM |
+| Developer | Sukeban Games |
+| ジャンル | アドベンチャー |
+| 発売日 | 2019/5/30 |
+
+| ハコボーイ！＆ハコガール！ | BOXBOY! + BOXGIRL! |
+|:--|:--|
+| Publisher | Nintendo |
+| Developer | HAL Laboratory, Inc. |
+| ジャンル | パズル / アクション |
+| 発売日 | 2019/4/26 |
+
+| エイプ・アウト | Ape Out |
+|:--|:--|
+| Publisher | Devolver Digital |
+| Developer | Gabe Cuzzillo |
+| ジャンル | アクション / アーケード |
+| 発売日 | 2019/2/28 |
+
 ## 2018
 
 | 塊魂アンコール | Katamari Damacy REROLL |
