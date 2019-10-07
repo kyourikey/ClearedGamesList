@@ -14,6 +14,13 @@
 | ジャンル | アーケード / アクション / アドベンチャー / 音楽 |
 | 発売日 | 2019/9/26 |
 
+| Untitled Goose Game 〜いたずらガチョウがやって来た！〜 | Untitled Goose Game |
+|:--|:--|
+| Publisher | Panic |
+| Developer | House House |
+| ジャンル | アクション / パズル |
+| 発売日 | 2019/09/20 |
+
 | ゼルダの伝説 夢をみる島 | The Legend of Zelda: Link's Awakening |
 |:--|:--|
 | Publisher | Nintendo |
