@@ -6,6 +6,26 @@
 * [#2017](#2017)
 
 ## 2019
+| ポケットモンスター シールド | Pokémon Shield |
+|:--|:--|
+| Publisher | Nintendo |
+| Developer | GAME FREAK inc. |
+| ジャンル | ロールプレイング |
+| 発売日 | 2019/11/15 |
+
+| オールドスクールミュージカル | Old School Musical |
+|:--|:--|
+| Publisher | Plug in Digital / Worker Bee Inc|
+| Developer | La Moutarde |
+| ジャンル | アーケード / 音楽 / パーティー / アドベンチャー |
+| 発売日 | 2019/11/7 |
+
+| ムーン  | Moon |
+|:--|:--|
+| Publisher | Onion Games |
+| Developer | Onion Games |
+| ジャンル | ロールプレイング / アドベンチャー |
+| 発売日 | 2019/10/10 |
 
 | さよならワイルドハーツ | Sayonara Wild Hearts |
 |:--|:--|
@@ -32,6 +52,13 @@
 | Publisher | Ubisoft |
 | ジャンル | 格闘 / アクション |
 | 発売日 | 2019/9/5 |
+
+| Forager | Forager |
+|:--|:--|
+| Publisher | Humble Bundle |
+| Developer | HopFrog |
+| ジャンル | アクション / アドベンチャー / シミュレーション / パズル |
+| 発売日 | 2019/7/30 |
 
 | キルラキル ザ・ゲーム -異布- | KILL la KILL -IF |
 |:--|:--|
@@ -96,6 +123,13 @@
 | Developer | Ben Esposito |
 | ジャンル | パズル / アドベンチャー |
 | 発売日 | 2018/12/18 |
+
+| PEACH BALL 閃乱カグラ | Peach Ball:Senran Kagura |
+|:--|:--|
+| Publisher | マーベラス |
+| Developer | マーベラス / タムソフト / HONEY∞PARADE GAMES |
+| ジャンル | アクション / テーブル / パーティー / コミュニケーション |
+| 発売日 | 2018/12/13 |
 
 | 大乱闘スマッシュブラザーズ SPECIAL | Super Smash Bros. Ultimate |
 |:--|:--|
